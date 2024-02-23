@@ -12,7 +12,10 @@ var config = {
         "也是在zoom里一起过的",
         "希望以后有机会一起吹蜡烛～",
         "祝宝贝22岁生日快乐！！",
-        "天天开心 & 万事胜意",
+        "天天开心，然后万事胜意～ 申请大顺利呼呼呼",
+        "然后就是一定要记得爱我",
+        "因为我爱你～～ 比心",
+        "2024.2.24",
         "From 汪怡婧",
     ],
     /**
@@ -26,17 +29,17 @@ var config = {
      */
     imgs: {
         "亲爱的胡泓宇": "./imgs/HBD.png",
-        // "今天是你的22岁生日": "./imgs/birthday.jpg",
+        // "今天是你的22岁生日": "./imgs/birthday.PNG",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
         turn_on: "开始啦啦啦啦",
-        play: "音乐",
-        bannar_coming: "颜色",
+        play: "音乐起！！",
+        bannar_coming: "来点颜色",
         balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        cake_fadein: "来点蛋糕恰恰",
+        light_candle: "蜡烛",
+        wish_message: "22岁生日快乐！！",
         story: "A MESSAGE FOR YOU",
     }
 };
